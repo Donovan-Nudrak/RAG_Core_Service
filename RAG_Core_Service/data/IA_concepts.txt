@@ -1,0 +1,9 @@
+Artificial Intelligence (AI): a branch of computer science that studies systems capable of performing tasks typically associated with human reasoning, such as classifying, predicting, understanding language, or planning.
+
+Machine learning and deep learning: Machine learning (ML) learns patterns from data without fixed rules for each case. Deep learning is a family of techniques based on neural networks with many layers; in practice, deep learning is a subset of machine learning.
+
+Embeddings: numerical representations (vectors) of text or tokens. Texts with similar meanings tend to have nearby vectors, which allows searching by semantic similarity.
+
+RAG (Retrieval-Augmented Generation): an architecture that first retrieves relevant fragments from a knowledge base (e.g., using embeddings) and then asks a language model to generate a response using those fragments as context.
+
+About this knowledge base: includes a timeline of computing milestones (JSON file), notes on AI models (text documents), and definitions like the ones above.

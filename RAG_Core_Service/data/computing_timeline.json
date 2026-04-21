@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Charles Babbage’s Analytical Engine (1830s)",
+    "content": "Conceived by Charles Babbage, it was the first mechanical computer design with programmable features similar to modern computers, though never fully built during his lifetime."
+  },
+  {
+    "title": "Ada Lovelace’s Algorithm (1843)",
+    "content": "Ada Lovelace wrote the first algorithm intended for a machine—the Analytical Engine—making her the world’s first computer programmer by demonstrating machines could perform complex calculations beyond mere arithmetic."
+  },
+  {
+    "title": "Alan Turing’s Turing Machine (1936)",
+    "content": "Turing introduced the theoretical Turing Machine, capable of simulating any algorithmic process, laying the foundation for modern computing theory and the concept of computability."
+  },
+  {
+    "title": "ENIAC (1945)",
+    "content": "The first general-purpose electronic digital computer, ENIAC was used during WWII for complex military calculations and demonstrated the feasibility of electronic computing at scale."
+  },
+  {
+    "title": "Invention of the Transistor (1947)",
+    "content": "Invented by William Shockley, John Bardeen, and Walter Brattain at Bell Labs, the transistor replaced vacuum tubes, enabling smaller, faster, and more reliable computers."
+  },
+  {
+    "title": "Integrated Circuit (1958)",
+    "content": "Independently invented by Jack Kilby and Robert Noyce, the integrated circuit allowed multiple transistors to be placed on a single silicon chip, accelerating Moore’s Law and miniaturization."
+  },
+  {
+    "title": "COBOL Programming Language (1959)",
+    "content": "Developed by Grace Hopper, COBOL was the first high-level programming language designed for business applications, making programming accessible beyond mathematicians."
+  },
+  {
+    "title": "ARPANET (1969)",
+    "content": "Funded by the U.S. Department of Defense, ARPANET was the first packet-switched network and the direct predecessor to the modern Internet."
+  },
+  {
+    "title": "World Wide Web (1991)",
+    "content": "Invented by Tim Berners-Lee at CERN, the Web introduced a user-friendly interface for accessing information via hyperlinked documents, revolutionizing global communication."
+  },
+  {
+    "title": "Quantum Computing Milestone (2019)",
+    "content": "Google demonstrated quantum supremacy with its Sycamore processor, proving a quantum computer could solve a specific problem faster than any classical supercomputer."
+  },
+  {
+    "title": "Mobile Computing Revolution (2000s)",
+    "content": "The rise of smartphones and mobile operating systems like iOS and Android transformed computing into a personal, always-connected experience, enabling access to information and applications anywhere."
+  },
+  {
+    "title": "Cloud Computing (2010s)",
+    "content": "The widespread adoption of cloud platforms like AWS, Google Cloud, and Azure enabled scalable, on-demand computing resources, changing how businesses and developers build and deploy software."
+  },
+  {
+    "title": "Deep Learning Breakthrough (2012)",
+    "content": "The success of AlexNet in the ImageNet competition demonstrated the power of deep neural networks, sparking rapid advancements in AI, particularly in image and speech recognition."
+  },
+  {
+    "title": "Smart Assistants and AI (2014–2020s)",
+    "content": "The launch of intelligent assistants like Siri, Alexa, and Google Assistant brought AI into everyday homes, demonstrating the integration of natural language processing into consumer technology."
+  },
+  {
+    "title": "Generative AI and Large Language Models (2022–2023)",
+    "content": "The emergence of generative AI models like GPT-4 and DALL-E allowed machines to create human-like text, images, and code, marking a significant leap in artificial intelligence capabilities."
+  },
+  {
+    "title": "Quantum Supremacy Advances (2024)",
+    "content": "Following Google’s 2019 milestone, subsequent research and development have advanced quantum computing hardware and algorithms, with companies like IBM and Microsoft demonstrating improved qubit stability and error correction."
+  },
+  {
+    "title": "AI in Scientific Research (2025)",
+    "content": "AI tools are now being used to accelerate scientific discovery, including protein folding predictions (AlphaFold), drug discovery, and materials science simulations, transforming research methodologies."
+  },
+  {
+    "title": "Exascale Supercomputers (2022)",
+    "content": "The Frontier supercomputer, developed by AMD and HPE, became the world’s first exascale machine, capable of over 1.1 exaFLOPS, enabling simulations of unprecedented scale."
+  },
+  {
+    "title": "Quantum Internet Prototypes (2026)",
+    "content": "Pilot networks for a quantum internet have been demonstrated in multiple countries, using quantum entanglement to enable theoretically unhackable communication for secure data transmission."
+  },
+  {
+    "title": "AI Regulation and Governance (2026)",
+    "content": "Global governments and organizations have begun implementing frameworks to regulate AI development and deployment, focusing on safety, ethics, and transparency."
+  }
+]
