@@ -171,7 +171,7 @@ Rebuilds the vector index using both file-based and database documents.
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/your-username/rag-core.git  
+git clone https://github.com/Donovan-Nudrak/RAG_Core_Service.git
 cd RAG_Core_Service
 ```
 
