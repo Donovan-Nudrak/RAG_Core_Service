@@ -8,8 +8,6 @@ from pydantic_settings import BaseSettings, SettingsConfigDict
 from dotenv import load_dotenv
 import os
 
-load_dotenv()
-
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 
 _APP_ROOT = Path(__file__).resolve().parent.parent
@@ -26,7 +24,7 @@ class Settings(BaseSettings):
 
     database_url: str = "sqlite:///./rag.db"
 
-    openrouter_api_key: str = OPENROUTER_API_KEY
+    openrouter_api_key: str = os.getenv("OPENROUTER_API_KEY")
     openrouter_chat_url: str = "https://openrouter.ai/api/v1/chat/completions"
     openrouter_embeddings_url: str = "https://openrouter.ai/api/v1/embeddings"
 
